@@ -1,0 +1,13 @@
+{
+    "files.exclude": {
+        "**/.classpath": true,
+        "**/.project": true,
+        "**/.settings": true,
+        "**/.factorypath": true
+    },
+    "java.configuration.updateBuildConfiguration": "automatic",
+    "dart.flutterSdkPaths": [
+        "C:\\Users\\bb601478\\fvm\\versions"
+    ],
+    "dart.flutterSdkPath": "C:\\Users\\bb601478\\fvm\\versions\\stable"
+}
